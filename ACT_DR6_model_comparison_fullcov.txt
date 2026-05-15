@@ -1,0 +1,21 @@
+ACT DR6 model comparison using full covariance
+================================================
+N = 10
+
+Fiducial model, A = 1
+chi2 = 14.003688
+AIC = 14.003688
+BIC = 14.003688
+
+Amplitude-only model
+A_lens = 1.012630 +/- 0.025607
+chi2 = 13.760413
+AIC = 15.760413
+BIC = 16.062998
+
+Scale-dependent model
+A0 = 1.001625 +/- 0.033801
+alpha = -0.017553 +/- 0.035581
+chi2 = 13.511625
+AIC = 17.511625
+BIC = 18.116795

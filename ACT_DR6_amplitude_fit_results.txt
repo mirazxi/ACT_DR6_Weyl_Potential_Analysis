@@ -1,0 +1,6 @@
+ACT DR6 CMB lensing amplitude fit
+--------------------------------
+A_lens = 1.012630 +/- 0.025607
+chi2_bestfit = 13.760413
+chi2_fiducial_A_1 = 14.003688
+number_of_bandpowers = 10
