@@ -1,0 +1,25 @@
+SPT-3G 2018 CMB lensing model comparison using full covariance
+===============================================================
+N = 12
+Pivot L0 = 300.0
+
+Fiducial model, A=1
+chi2 = 11.562122
+AIC = 11.562122
+BIC = 11.562122
+
+Amplitude-only model
+A = 0.968822 +/- 0.078952
+Sigma_A = -0.015713 +/- 0.040106
+chi2 = 11.406174
+AIC = 13.406174
+BIC = 13.891081
+
+Scale-dependent model
+A0 = 0.953961 +/- 0.081315
+alpha = -0.053596 +/- 0.071413
+Sigma0 = -0.023291 +/- 0.041627
+Sigma1 = -0.026174 +/- 0.034875
+chi2 = 10.822977
+AIC = 14.822977
+BIC = 15.792790
